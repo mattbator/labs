@@ -24,7 +24,7 @@ Are *you* one of the following:
 
 If so, then you've come to the right place! Nutanix Workshops provides comprehensive hands-on-lab guides for implementing many solutions on top of the **Nutanix Enterprise Cloud**.
 
-.. image:: /_static/pc1.png
+.. image:: _static/pc1.PNG
     :align: center
 
 The documentation hosted on this site is divded into two main categories:
