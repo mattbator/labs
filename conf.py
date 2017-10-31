@@ -45,7 +45,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'contents'
+master_doc = 'index'
 
 # General information about the project.
 project = u'Nutanix Workshops'
@@ -113,7 +113,7 @@ html_sidebars = {
 # Override default css to get a larger width for ReadTheDoc build
 html_context = {
     'css_files': [
-        '_static/css/theme.css',                                       
+        '_static/css/theme.css',
     ],
 }
 
