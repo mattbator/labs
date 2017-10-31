@@ -113,7 +113,7 @@ html_sidebars = {
 # Override default css to get a larger width for ReadTheDoc build
 html_context = {
     'css_files': [
-        '_static/theme.css'
+        '_static/css/theme.css',                                       
     ],
 }
 
