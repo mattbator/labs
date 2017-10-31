@@ -38,6 +38,7 @@ The documentation hosted on this site is divded into two main categories:
 
   getting_started
   versions
+  building
   ce
   contact
 

@@ -2,22 +2,14 @@
 Citrix on AHV Lab
 =================
 
-Lab Goals
-=========
-What're we doing here people
+Talking about the overall goals for the lab, fa la la la la.
 
-Preparation
-===========
-You need some of this stuff to get started
+.. _ahv-citrix-docs:
 
-Module 1
-========
-Here's where you do some stuff
+.. toctree::
+  :name: _ahv-citrix-docs
 
-Module 2
-========
-And this is where you do some things
-
-Module 3
-========
-And this is where we bring the stuff and the things together
+  req
+  part1
+  part2
+  trouble
