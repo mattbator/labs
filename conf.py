@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'contents'
 
 # General information about the project.
-project = u'Nutanix Labs'
+project = u'Nutanix Workshops'
 copyright = u'2017, Nutanix'
 author = u'Nutanix Global Technical Enablement'
 
