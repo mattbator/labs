@@ -1,6 +1,8 @@
-=====================
-SQL Server on AHV Lab
-=====================
+==========================
+SQL Server on AHV Lab v1.0
+==========================
+
+This is the first version of this lab
 
 Lab Goals
 =========
