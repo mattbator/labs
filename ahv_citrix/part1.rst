@@ -12,5 +12,5 @@ Subtitle 2
 
 Electric bugaloo
 
-.. image:: /ahv_citrix/images/pc1.png
+.. image:: /_static/pc1.png
     :align: center
