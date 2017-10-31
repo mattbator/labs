@@ -12,5 +12,5 @@ Subtitle 2
 
 Electric bugaloo
 
-.. image:: /_static/pc1.png
+.. image:: _static/pc1.png
     :align: center
