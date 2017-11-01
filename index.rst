@@ -24,7 +24,7 @@ Are *you* one of the following:
 
 If so, then you've come to the right place! Nutanix Workshops provides comprehensive hands-on-lab guides for implementing many solutions on top of the **Nutanix Enterprise Cloud**.
 
-.. image:: /_static/ahv_citrix/pc1.PNG
+.. image:: /_static/ahv_citrix/pc1.*
     :align: center
 
 The documentation hosted on this site is divded into two main categories:
