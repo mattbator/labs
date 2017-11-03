@@ -37,16 +37,17 @@ The documentation hosted on this site is divded into two main categories:
   :name: _intro-docs
 
   getting_started
+  templates
+  ce
   versions
   building
-  ce
   contact
 
 .. _lab-docs:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Lab Guides
+  :caption: Workshops
   :name: _lab-docs
 
   ahv_citrix/index

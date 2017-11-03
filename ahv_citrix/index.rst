@@ -10,6 +10,11 @@ Talking about the overall goals for the lab, fa la la la la.
   :name: _ahv-citrix-docs
 
   req
-  part1
-  part2
+  lab1
+  lab2
+  lab3
+  lab4
+  lab5
+  lab6
+  lab7
   trouble
