@@ -50,5 +50,6 @@ The documentation hosted on this site is divded into two main categories:
   :caption: Workshops
   :name: _lab-docs
 
+  calm/index
   ahv_citrix/index
   ahv_sql/index
