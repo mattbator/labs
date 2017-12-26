@@ -1,10 +1,10 @@
-*********************************************************
-**Calm Workshop – Software Development Lifecycle (SDLC)**
-*********************************************************
+*****************************************************
+Calm Workshop – Software Development Lifecycle (SDLC)
+*****************************************************
 
 .. contents::
 
-   
+
 **SDLC Introduction**
 *********************
 
@@ -14,12 +14,12 @@ Understanding the fundamentals of SDLC.  A **software development life cycle** i
 
 Successful projects are managed well. In order to manage a project efficiently, the manager or dev team must choose which software development method works best for the project at hand.  All of the numerous software development methodologies that exist are used for different reasons. I've been doing some research to understand why different methodologies exist, and which ones are the most commonly used software development methodologies.
 
-SDLC works by lowering the cost of software development while simultaneously improving quality and shortening production time. SDLC achieves these apparently divergent goals by following a plan that removes the typical pitfalls to software development projects. 
+SDLC works by lowering the cost of software development while simultaneously improving quality and shortening production time. SDLC achieves these apparently divergent goals by following a plan that removes the typical pitfalls to software development projects.
 
-That plan starts by evaluating existing systems for deficiencies. 
+That plan starts by evaluating existing systems for deficiencies.
 
-- Next, it defines the requirements of the new system. 
-- It then creates the software through the stages of design, development, testing, and deployment. 
+- Next, it defines the requirements of the new system.
+- It then creates the software through the stages of design, development, testing, and deployment.
 - By anticipating costly mistakes like failing to ask the end user for suggestions, SLDC can eliminate redundant rework and after-the-fact fixes.
 
 **Stages and Best Practices of SDLC**
@@ -41,34 +41,34 @@ In this stage of SDLC, the team defines the requirements of the new software and
 
 It is the most creative and challenging phase of SDLC.
 
-Occurs in two phases: 
+Occurs in two phases:
 
-- Logical Design - Specifies user needs. 
-- Physical Design - Tells the programmer what the candidate system must do. 
+- Logical Design - Specifies user needs.
+- Physical Design - Tells the programmer what the candidate system must do.
 
-This phase of SDLC starts by turning the software specifications into a design plan called the Design Specification. All stakeholders then review this plan and offer feedback and suggestions. It’s crucial to have a plan for collecting and incorporating stakeholder input into this document. Failure at this stage will almost certainly result in cost overruns at best and total collapse of the project at worst. 
+This phase of SDLC starts by turning the software specifications into a design plan called the Design Specification. All stakeholders then review this plan and offer feedback and suggestions. It’s crucial to have a plan for collecting and incorporating stakeholder input into this document. Failure at this stage will almost certainly result in cost overruns at best and total collapse of the project at worst.
 
 **Build. “Let’s create what we want.”:**
 
 This SDLC stage develops the software by generating all the actual code. If the previous steps have been followed with attention to detail, this is actually the least complicated step.
 
-Less creative then designing phase. 
+Less creative then designing phase.
 
-It is of 3 types: 
+It is of 3 types:
 
-- Implementation of a computer system to replace a manual system. 
-- Implementation of a new computer system to replace an existing one. 
-- Implementation of a modified application to replace existing one on same computer. 
+- Implementation of a computer system to replace a manual system.
+- Implementation of a new computer system to replace an existing one.
+- Implementation of a modified application to replace existing one on same computer.
 
-Parallel Runs: In this new system runs with old system which provides assurance, and even helps user staff gain experience. 
+Parallel Runs: In this new system runs with old system which provides assurance, and even helps user staff gain experience.
 
 **Test. “Did we get what we want?”:**
 
 In this stage, we test for defects and deficiencies. We fix those issues until the product meets the original specifications.
 
-The objective is to determine if the system does what it is designed to do 
-Does it support the user as required in an effective and efficient manner 
-The review should assess how successful the system is in terms of functionality, performance, and cost versus benefits. 
+The objective is to determine if the system does what it is designed to do
+Does it support the user as required in an effective and efficient manner
+The review should assess how successful the system is in terms of functionality, performance, and cost versus benefits.
 
 **Deploy. “Let’s start using what we got.”:**
 
@@ -78,8 +78,8 @@ Often, this part of the SDLC process happens in a limited way at first. Dependin
 
 The plan almost never turns out perfect when it meets reality. Further, as conditions in the real world change, we need to update and advance the software to match.  The emphasis during this phase is to ensure that needs continue to be met and that the system continues to perform according to specification
 
-Routine hardware and software maintenance and upgrades are performed to ensure effective system operations. 
-User training continues during this phase, as needed, to acquaint new users to the system or to introduce new features to current users 
+Routine hardware and software maintenance and upgrades are performed to ensure effective system operations.
+User training continues during this phase, as needed, to acquaint new users to the system or to introduce new features to current users
 
 **Note:** The DevOps movement has changed the SDLC in some ways. Developers are now responsible for more and more steps of the entire development process. We also see the value of shifting left. When development and Ops teams use the same toolset to track performance and pin down defects from inception to the retirement of an application, this provides a common language and faster handoffs between teams. APM tools can be used in development, QA, and production. This keeps everyone using the same toolset across the entire development lifecycle.
 
@@ -308,7 +308,7 @@ Practices
 
 The core of Extreme Programming (XP) is the interconnected set of software development practices listed below. While it is possible to do these practices in isolation, many teams have found some practices reinforce the others and should be done in conjunction to fully eliminate the risks you often face in software development.
 
-The Extreme Programming (XP) Practices have changed a bit since they were initially introduced.The original twelve practices are listed below. If you would like more information about how these practices were originally described, you can 
+The Extreme Programming (XP) Practices have changed a bit since they were initially introduced.The original twelve practices are listed below. If you would like more information about how these practices were originally described, you can
 
 - The Planning Game
 - Small Releases
@@ -375,7 +375,7 @@ Continuous Integration is a practice where code changes are immediately tested 
 
 Test-First Programming instead of following the normal path of:
 
-- develop code -> write tests -> run tests 
+- develop code -> write tests -> run tests
 
 The practice of Test-First Programming follows the path of:
 
@@ -502,7 +502,7 @@ Test-driven development (TDD) is a development technique where you must first wr
 .. |image0| image:: ./media/image1.png
    :width: 3in
    :height: 2in
-   
+
 .. |image1| image:: ./media/image8.png
    :width: 4.73125in
    :height: 3.03056in
@@ -510,27 +510,23 @@ Test-driven development (TDD) is a development technique where you must first wr
 .. |image2| image:: ./media/image2.png
    :width: 4.73125in
    :height: 3.03056in
-   
+
 .. |image3| image:: ./media/image3.png
    :width: 4.73125in
    :height: 3.03056in
-   
+
 .. |image4| image:: ./media/image4.png
    :width: 4.73125in
    :height: 3.03056in
-   
+
 .. |image5| image:: ./media/image9.png
    :width: 4.73125in
    :height: 3.03056in
-   
+
 .. |image6| image:: ./media/image6.png
    :width: 4.73125in
    :height: 3.03056in
-   
+
 .. |image7| image:: ./media/image7.png
    :width: 4.73125in
    :height: 3.03056in
-
-
-
-

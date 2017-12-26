@@ -1,15 +1,7 @@
-.. Nutanix Labs documentation master file, created by
-   sphinx-quickstart on Fri Oct 27 12:18:41 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-.. only:: html
+.. .. only:: html
 
   .. image:: _static/Nutanix_CMYK.svg
       :align: center
-
-|
-
 ============================
 Welcome to Nutanix Workshops
 ============================
@@ -24,16 +16,16 @@ Are *you* one of the following:
 
 If so, then you've come to the right place! Nutanix Workshops provides comprehensive hands-on-lab guides for implementing many solutions on top of the **Nutanix Enterprise Cloud**.
 
-The documentation hosted on this site is divded into two main categories:
+.. The documentation hosted on this site is divded into two main categories:
 
-* :ref:`intro-docs`
-* :ref:`lab-docs`
+.. * :ref:`intro-docs`
+.. * :ref:`lab-docs`
 
 .. _intro-docs:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Introduction
+  :caption:     Introduction
   :name: _intro-docs
 
   getting_started
@@ -47,7 +39,7 @@ The documentation hosted on this site is divded into two main categories:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Workshops
+  :caption:     Workshops
   :name: _lab-docs
 
   calm/index
